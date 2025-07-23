@@ -1,0 +1,2 @@
+# Wingomanpridictor
+All wingo pridiction 
